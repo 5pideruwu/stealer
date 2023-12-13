@@ -1,8 +1,6 @@
- 
 import requests
 from bs4 import BeautifulSoup
 
-# List of URLs to scrape for proxies
 urls = [
     'https://free-proxy-list.net/',
     'https://www.sslproxies.org/',
